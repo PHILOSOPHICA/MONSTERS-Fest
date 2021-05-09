@@ -1,0 +1,263 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: Black;
+
+}
+
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
+h1
+{
+  display: flex;
+  margin-top: 50px;
+  font-size: 50px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  color: white;
+  margin-left: 900px;
+}
+
+h2
+{
+  display: flex;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 50px;
+  font-family:'Aldrich', sans-serif;
+  font-weight: 500;
+  margin-bottom: 5px;
+  color: white;
+  margin-left: 550px;
+}
+
+h5
+{
+  display: flex;
+  margin-top: 20px;
+  font-size: 100px;
+  font-family: 'Zen Dots', cursive;
+  font-weight: 500;
+  margin-bottom: 5px;
+  color: white;
+  margin-left: 250px;
+
+}
+
+h5:hover
+{
+  color: Yellow;
+  background-image: linear-gradient(-225deg, #FF057C 0%, #7C64D5 48%, #4CC3FF 100%);
+  background-size: auto;
+  padding: 5px;
+  width: auto;
+}
+
+h6
+{
+  display: flex;
+  margin-top: 20px;
+  font-size: 50px;
+  font-family: 'Zen Dots', cursive;
+  font-weight: 500;
+  margin-bottom: 5px;
+  color: Black;
+  margin-left: 1000px;
+}
+
+
+p
+{
+font-family: font-family: 'IBM Plex Mono', monospace;
+font-weight: 700;
+font-size: 30PX;
+margin-bottom: 15px;
+margin-left: 90px;
+text-align: center;
+color: #FF6600;
+letter-spacing: 5px;
+}
+
+p2
+{
+  font-family:
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 100px;
+  Margin right: 100px;
+  color: Yellow;
+}
+
+p3
+{
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 700;
+  margin-bottom: 15px;
+  margin-left: 900px;
+}
+
+a
+{
+  align-items: center;
+  font-family: 'Quantico', sans-serif;
+  color: Yellow;
+  margin-left: 220px;
+  display:inline-flex;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50px;
+  width: 270px;
+
+}
+
+a:hover
+{
+
+  color: #00FF00;
+  padding: 5px;
+
+}
+
+
+body2
+{
+  text-align: justify;
+}
+
+h3
+{
+  text-align: center;
+  margin-top: 70px;
+  font-size: 50px;
+
+}
+
+h4
+{
+  display: flex;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-bottom: 20px;
+  color: Yellow;
+  font-family: 'Quantico', sans-serif;
+  font-size: 30px;
+}
+
+p2
+{
+  display: flex;
+  text-align: justify;
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  color: Yellow;
+  font-family: 'Quantico', sans-serif;
+  font-size: 30px;
+
+}
+
+P3
+{
+  text-align: center;
+  color: white;
+  font-family: 'Aldrich', sans-serif;
+  margin-left: 200px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+p4
+{
+  text-align: center;
+  margin-left: 720px;
+  font-family: 'Aldrich', sans-serif;
+  background: white;
+  background-size: auto;
+  color: Black;
+  font-size: 20PX;
+}
+
+p5
+{
+  display: flex;
+  margin-left: 200px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 20px;
+}
+
+p6
+{
+  text-align: center;
+  background: White;
+  background-size: auto;
+  color: black;
+  font-family: 'Aldrich', sans-serif;
+  margin-left: 400px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+p7
+{
+  display: flex;
+  margin-left: 600px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: white;
+  margin-top: 10PX;
+  margin-bottom: 20PX;
+}
+
+img
+{
+  display: inline-flex;
+
+
+}
+
+
+
+section:nth-child(1)
+{
+  background-image: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%);
+  display: inline-grid;
+  margin-top: 0;
+  height: 650px;
+  width: 1350px;
+  align-items: center;
+}
+
+section:nth-child(2)
+{
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  align-items:baseline;
+  display: inline-grid;
+  height: 2200px;
+  width: 1350px;
+}
+
+
+section:nth-child(3)
+{
+background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+display: flex;
+align-items: center;
+height: 500px;
+width: 1350px;
+
+}
